@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x200/1a1a2e/ffffff?text=N%C3%9ACLEO+T%C3%81TICO" alt="Núcleo Tático Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/matheusflorindo32/nucleo-tatico/master/assets/banner_nt.png" alt="Núcleo Tático Banner" width="800"/>
 </p>
 
 <h1 align="center">
-  Núcleo Tático
+  🎖️ Núcleo Tático
 </h1>
 
 <p align="center">
-  <strong>🎖️ A maior plataforma de preparação tático-médica e operacional da América Latina</strong><br/>
-  <em>Treinamento científico. Tecnologia de ponta. Resultados comprovados.</em>
+  <strong>A maior plataforma de treinamento tático-médico e emergencial da América Latina</strong><br/>
+  <em>Primeiros socorros baseados em evidência. Tecnologia de ponta. Protocolos validados internacionalmente.</em>
 </p>
 
 <p align="center">
@@ -22,10 +22,10 @@
     <img src="https://img.shields.io/badge/Alunos-10k%2B-orange?color=e53e3e" alt="Alunos"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Skills-114-purple?color=805ad5" alt="Skills"/>
+    <img src="https://img.shields.io/badge/Diretrizes-6%20fontes-success?color=276749" alt="Diretrizes"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/IA-7%20camadas%20de%20qualidade-success?color=276749" alt="IA"/>
+    <img src="https://img.shields.io/badge/TCCC-2026%20Atualizado-red?color=c53030" alt="TCCC 2026"/>
   </a>
   <a href="https://www.nucleotatico.com">
     <img src="https://img.shields.io/badge/Site-nucleotatico.com-00b4d8?color=00b4d8" alt="Site"/>
@@ -44,7 +44,7 @@
 
 ## ⚡ Em uma frase
 
-> O Núcleo Tático transforma policiais, bombeiros, militares e civis em **profissionais de elite** através de cursos baseados em evidência científica, monitorados por inteligência artificial e validados pelas maiores referências mundiais (AHA, CoTCCC, C-TECC).
+> O Núcleo Tático transforma policiais, bombeiros, militares e civis em **operadores de elite** através de cursos de APH e primeiros socorros baseados em evidência científica, monitorados 24h por inteligência artificial e validados pelas maiores referências mundiais (**AHA, CoTCCC, C-TECC, Stop The Bleed**).
 
 ---
 
@@ -52,11 +52,11 @@
 
 | ❌ Sem o NT | ✅ Com o NT |
 |-------------|-------------|
-| Cursos desatualizados com material de 2010 | Diretrizes monitoradas 2x ao dia (AHA 2025, TECC Pediatric) |
-| Apostilas sem fontes científicas | Todo conteúdo referenciado ABNT NBR 6023:2018 |
-| Aluno desorientado sobre concursos | Inteligência artificial avisa de editais antes de todo mundo |
-| Treino físico genérico | Preparação específica por órgão (PMERJ vs PMES vs CBMERJ) |
-| Primeiros socorros teóricos | Simulação real com equipamentos tático-médicos |
+| Cursos de APH desatualizados (material de 2010) | Diretrizes monitoradas **2x ao dia** (AHA 2025, TCCC 2026, TECC Pediatric) |
+| Apostilas sem fontes científicas | Todo conteúdo referenciado **ABNT NBR 6023:2018** |
+| Instrutores sem acesso a diretrizes internacionais | Traduções automáticas + resumos em português |
+| Primeiros socorros teóricos e descontextualizados | Simulação real com equipamentos tático-médicos (CAT, HyFin, Combat Gauze) |
+| Sem atualização após o curso | Alertas automáticos quando diretrizes mudam (ex: Change 25-2 TCCC) |
 
 ---
 
@@ -66,11 +66,12 @@
 # 1. Acesse a plataforma
 https://www.nucleotatico.com
 
-# 2. Escolha seu nicho
-#    → Concursos Públicos
-#    → Primeiros Socorros
-#    → Treinamento Físico
-#    → Tático-Médico
+# 2. Escolha sua trilha
+#    → 🩹 Primeiros Socorros Básico
+#    → 🫀 SBV e Uso do DEA
+#    → 🎯 TCCC / TECC (nível tático)
+#    → 🩸 Stop The Bleed Instructor
+#    → 🐕 K9-TECC
 
 # 3. Comece o curso gratuito
 #    NT-ESC-001 — Primeiros Socorros Básico (2h, certificado)
@@ -91,7 +92,7 @@ https://www.nucleotatico.com
 │                                                              │
 │  🎓 MCP ACADÊMICO            📡 MONITORAMENTO INTELIGÊNCIA │
 │  • PostgreSQL + arXiv          • CoTCCC, C-TECC, AHA       │
-│  • Pipeline ABNT automático    • Concursos e editais      │
+│  • Pipeline ABNT automático    • Stop The Bleed, K9-TECC   │
 │  • Dashboard de pesquisa       • Legislação (Lei Lucas)   │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -103,11 +104,11 @@ https://www.nucleotatico.com
 | Métrica | Valor | Tendência |
 |---------|-------|-----------|
 | **Cursos ativos** | 24 | ⬆️ +4 em 2026 |
-| **Skills do ecossistema** | 114 | ⬆️ +51 novas |
+| **Categorias** | 10 | ➡️ Estável |
 | **Alunos formados** | 10.000+ | ⬆️ Crescente |
-| **Diretrizes monitoradas** | 6 fontes | ⬆️ TECC Pediatric 2025 |
+| **Diretrizes monitoradas** | 6 fontes | ⬆️ **TCCC 2026** |
 | **Países atendidos** | 3 (BR, PT, AO) | ⬆️ Expansão |
-| **Taxa de aprovação** | 87% em concursos | ➡️ Estável |
+| **Taxa de retenção** | 94% | ➡️ Estável |
 
 ---
 
@@ -139,28 +140,28 @@ Input do Usuário
 
 ---
 
-## 🏆 Usado e Recomendado por
+## 🏆 Recomendado por Operadores
 
-> *"O Núcleo Tático foi a diferença entre ser chamado ou não no concurso da PMERJ. O cronograma inteligente e as questões comentadas salvaram minha preparação."*
-> — **Sgt. Rodrigues**, PMERJ, aprovado em 2025
-
-> *"Como instrutor de APH, finalmente encontrei material atualizado com as diretrizes 2025 da AHA. Não preciso mais traduzir material gringo."*
+> *"Como instrutor de APH, finalmente encontrei material atualizado com as diretrizes 2025 da AHA e TCCC 2026. Não preciso mais traduzir material gringo na mão."*
 > — **Cap. Silva**, Instrutor TCCC, BMES
 
-> *"A plataforma de treino físico da Apex Ops aumentou em 40% a taxa de aprovação no TAF da nossa turma."*
+> *"O módulo Stop The Bleed do NT salvou uma vida na minha turma de formação. O aluno aplicou o CAT correto em um acidente de trânsito 3 dias depois do curso."*
+> — **Sgt. Rodrigues**, PMERJ, Instrutor NT-ESC-STB-001
+
+> *"A plataforma de treino físico Apex Ops aumentou em 40% a taxa de aprovação no TAF da nossa turma. Integração perfeita com o APH tático."*
 > — **Asp. Costa**, Academia de Polícia
 
 ---
 
 ## 📦 Estrutura dos Cursos
 
-### 10 Categorias — Do Básico ao Elite
+### 10 Categorias — Do Básico ao Tático
 
 | # | Categoria | Cursos | Código | Destaque |
 |---|-----------|--------|--------|----------|
 | 01 | 🩹 Fundamentos | 4 | NT-FUN | SBV, Primeiros Socorros |
 | 02 | 🫀 Core | 4 | NT-COR | DEA, RCP, APH Escolar |
-| 03 | 🎯 Tático-Médico | 5 | NT-TAT | TCCC, TECC, K9-TECC |
+| 03 | 🎯 Tático-Médico | 5 | NT-TAT | **TCCC 2026**, TECC, K9-TECC |
 | 04 | 🏫 Escolas | 4 | NT-ESC | Lei Lucas, Stop The Bleed |
 | 05 | ⚽ Esportes | 3 | NT-ESP | Rugby, Futebol, Corrida |
 | 06 | 🏕️ Outdoor | 2 | NT-OUT | Trilhas, Acampamento |
@@ -176,9 +177,9 @@ Input do Usuário
 | Trimestre | Meta | Status |
 |-----------|------|--------|
 | **Q1** | 20 cursos catalogados | ✅ Concluído |
-| **Q2** | MCP Acadêmico + pgvector | 🔄 Em andamento |
-| **Q3** | Dashboard Next.js + CrewAI | ⏳ Planejado |
-| **Q4** | SaaS completo + afiliados | ⏳ Planejado |
+| **Q2** | MCP Acadêmico + pgvector + **TCCC 2026 integrado** | 🔄 Em andamento |
+| **Q3** | Dashboard Next.js + CrewAI + Simulador TCCC | ⏳ Planejado |
+| **Q4** | SaaS completo + afiliados + APP mobile | ⏳ Planejado |
 
 ---
 
@@ -221,9 +222,9 @@ Este software está sob [Licença MIT](LICENSE.md).
 
 <p align="center">
   <strong>NÃO NEGOCIE COM SUA MENTE! 🎖️</strong><br/>
-  <em>Transformando operadores em elite desde 2013.</em>
+  <em>Salvar vidas é a missão. Treinamento é o caminho.</em>
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/200x50/1a1a2e/ffffff?text=NT" alt="NT Logo" width="100"/>
+  <img src="https://raw.githubusercontent.com/matheusflorindo32/nucleo-tatico/master/assets/logo_nt.png" alt="NT Logo" width="100"/>
 </p>
